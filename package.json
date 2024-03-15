@@ -1,6 +1,6 @@
 {
   "name": "tween-functions-ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "https://github.com/ts-web/",
   "license": "BSD",
   "main": "lib/tweenFunctions.js",
