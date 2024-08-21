@@ -1,10 +1,10 @@
 {
   "name": "tween-functions-ts",
   "version": "1.0.1",
-  "author": "https://github.com/ts-web/",
-  "license": "BSD",
-  "main": "lib/tweenFunctions.js",
   "description": "Robert Penner's easing functions, slightly modified, in typescript",
+  "license": "MIT",
+  "author": "https://github.com/ts-web/",
+  "funding": "https://github.com/sponsors/ts-web",
   "keywords": [
     "tween",
     "ease",
@@ -19,14 +19,23 @@
     "type": "git",
     "url": "https://github.com/ts-web/tween-functions-ts.git"
   },
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js",
+    "./*": "./dist/*.mjs"
+  },
+  "sideEffects": false,
   "scripts": {
-    "build": "tsc",
-    "prepack": "npm run build"
+    "build": "tsup",
+    "prepack": "pnpm run build"
   },
   "devDependencies": {
+    "tsup": "^8.2.4",
     "typescript": "^5"
   },
   "files": [
-    "lib"
+    "dist"
   ]
 }
