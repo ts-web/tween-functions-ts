@@ -3,7 +3,7 @@
 
 # tween-functions-ts
 
-<img src="./media/ease.svg" alt="sample easing functions">
+<img src="assets/ease.svg" alt="sample easing functions">
 <br>
 <small>Sample easing functions from <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function">MDN</a></small>
 <br>
