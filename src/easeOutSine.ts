@@ -1,6 +1,6 @@
 
 /**
- * @param t current time
+ * @param t the current elapsed time, between 0 and `d` (duration)
  * @param b beginning value
  * @param c final value
  * @param d total duration
