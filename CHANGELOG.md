@@ -1,3 +1,6 @@
+# 1.1.2
+- Mistaken publish. No actual changes compared to `1.1.1`.
+
 # 1.1.1
 - Fix readme image. (No functional changes).
 
