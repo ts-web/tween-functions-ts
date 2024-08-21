@@ -1,3 +1,6 @@
+# 1.1.1
+- Fix readme image. (No functional changes).
+
 # 1.1.0
 - Support direct importing of individual tween functions via sub-path.
 
