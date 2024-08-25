@@ -26,7 +26,7 @@ const currentValue = easeOutQuad(elapsedTime, fromValue, toValue, duration);
 
 Direct imports are also supported, for maximum performance:
 ```ts
-import { easeOutQuad } from 'tween-functions-ts/easeOutQuad';
+import { easeOutQuad } from 'tween-functions-ts/dist/easeOutQuad';
 ```
 
 

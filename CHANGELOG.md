@@ -1,3 +1,6 @@
+# 1.1.4
+- Remove nonworking exports config.
+
 # 1.1.3
 - No changes. First GH Actions publish.
 
