@@ -1,3 +1,6 @@
+# 1.1.3
+- No changes. First GH Actions publish.
+
 # 1.1.2
 - Mistaken publish. No actual changes compared to `1.1.1`.
 

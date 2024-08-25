@@ -1,5 +1,6 @@
 [![npm version](https://img.shields.io/npm/v/tween-functions-ts.svg)](https://www.npmjs.com/package/tween-functions-ts)
 [![Downloads](https://img.shields.io/npm/dm/tween-functions-ts.svg)](https://www.npmjs.com/package/tween-functions-ts)
+![Uses TypeScript](https://img.shields.io/badge/Uses-Typescript-294E80.svg)
 
 # tween-functions-ts
 
